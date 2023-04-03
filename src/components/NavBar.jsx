@@ -7,6 +7,7 @@ import { FixedNavSpacer, ToggleSwitch } from "./globalStyledComponents";
 // Images
 import Logo from "../images/logo.svg";
 
+
 export default function NavBar() {
   const { theme, isExpanded, closeExpanded, toggleExpanded } = useAppContext();
 
@@ -92,6 +93,8 @@ export default function NavBar() {
                 >
                   Contact
                 </Link>
+              </Nav.Item>
+              <Nav.Item>
               </Nav.Item>
             </Nav>
             <Nav>

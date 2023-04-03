@@ -37,9 +37,9 @@ export default function Projects() {
         );
         tempArray.length !== 0
           ? setMainProjects([...tempArray])
-          : setMainProjects([...tempData.slice(0, 3)]);
+          : setMainProjects([...tempData.slice(5, 9)]);
       } else {
-        setMainProjects([...tempData.slice(0, 3)]);
+        setMainProjects([...tempData.slice(5, 9)]);
       }
     },
     [data]

@@ -20,8 +20,12 @@ import {
   SiMongodb,
 } from "react-icons/si";
 
+
 // Projects Images (add your images to the images directory and import below)
-import Logo from "./images/logo.svg";
+// import Logo from "./images/logo.svg";
+import ShoyuRamen from "./images/ShoyuRamen.png";
+import planit from "./images/planit.png";
+import EAH from "./images/EAH.png";
 
 // Hero Images (add your images to the /images directory with the same names)
 import HeroLight from "./images/hero-light.jpg";
@@ -131,18 +135,28 @@ export const skillData = [
 // Resume link (string - "https://YourResumeUrl") - I am using CloudFront to share my resume (https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
 export const resume = null;
 
+
+
 /* Projects
  ************************************************************** 
   List the repo names (string - "your-repo-name") you want to include (they will be sorted alphabetically). If empty, only the first 3 will be included.
 */
-export const filteredProjects = ["example-1", "example-2", "example-3"];
+export const filteredProjects = ["Shoyu-Ramen", "Plan-it", "Exclusive-Auto-Sales"];
 
 // Replace the defualt GitHub image for matching repos below (images imported above - lines 13-14)
 export const projectCardImages = [
   {
-    name: "example-1",
-    image: Logo,
+    name: "Shoyu-Ramen",
+    image: ShoyuRamen,
   },
+  {
+    name: "Plan-it",
+    image: planit,
+  },
+  {
+    name: "Exclusive-Auto-Sales",
+    image: EAH,
+  }
 ];
 
 /* Contact Info
