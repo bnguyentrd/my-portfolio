@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.55df2724.css",
-    "main.js": "/my-portfolio/static/js/main.dd3756ad.js",
+    "main.css": "/my-portfolio/static/css/main.44a35500.css",
+    "main.js": "/my-portfolio/static/js/main.17e220ae.js",
+    "static/media/EAH.png": "/my-portfolio/static/media/EAH.603fab8149c694356531.png",
+    "static/media/hero-light.jpg": "/my-portfolio/static/media/hero-light.5d6a1d3ffd6754947429.jpg",
+    "static/media/ShoyuRamen.png": "/my-portfolio/static/media/ShoyuRamen.b39d54075b259b97c8a0.png",
+    "static/media/planit.png": "/my-portfolio/static/media/planit.30b9fd81f4e5874f76ad.png",
     "static/media/hero-dark.jpg": "/my-portfolio/static/media/hero-dark.37f2556d620821979e99.jpg",
-    "static/media/hero-light.jpg": "/my-portfolio/static/media/hero-light.78b77836d8aee4d7d3cb.jpg",
     "service-worker.js": "/my-portfolio/service-worker.js",
     "static/media/GH.svg": "/my-portfolio/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
     "static/media/logo.svg": "/my-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/my-portfolio/index.html",
-    "main.55df2724.css.map": "/my-portfolio/static/css/main.55df2724.css.map",
-    "main.dd3756ad.js.map": "/my-portfolio/static/js/main.dd3756ad.js.map"
+    "main.44a35500.css.map": "/my-portfolio/static/css/main.44a35500.css.map",
+    "main.17e220ae.js.map": "/my-portfolio/static/js/main.17e220ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.55df2724.css",
-    "static/js/main.dd3756ad.js"
+    "static/css/main.44a35500.css",
+    "static/js/main.17e220ae.js"
   ]
 }
